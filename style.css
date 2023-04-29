@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    font-family: "Alice", serif;
+  }
+  .container {
+    width: 60%;
+    height: 800px;
+    margin-top: 10px;
+    border: radius 20px;
+    background-color: white;
+    margin-left: 60px;
+  }
+  h2 {
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  .data {
+    border-radius: 10px;
+    background-color: darkcyan;
+    color: rgb(247, 119, 59);
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 40%;
+    padding-bottom: 20px;
+    text-align: justify;
+    margin-top: 10px;
+  }
+  .email {
+    font-weight: bolder;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    padding: bottom 30px;
+  }
+  input {
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-right: 150px;
+    text-align: top right;
+    padding-bottom: 20px;
+    background-color: rgb(215, 218, 225);
+    font-size: large;
+    border-color: white;
+  }
+  span {
+    color: rgb(214, 6, 6);
+  }
+  .unsubscribe {
+    font-weight: bolder;
+    
+  }
+  button {
+    margin-top: 20px;
+    background-color: rgb(215, 218, 225);
+    margin-left: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    border-color: white;
+    border-radius: 5px;
+    color: rgb(7, 6, 6);
+  }
+  button:hover {
+    background-color: rgb(69, 208, 250);
+  }
