@@ -4,6 +4,7 @@
     padding: 0px;
     background-color: white;
     font-family: "Alice", serif;
+   
   }
   .container {
     width: 60%;
@@ -12,6 +13,7 @@
     border: radius 20px;
     background-color: white;
     margin-left: 60px;
+    
   }
   h2 {
     margin-left: 10px;
@@ -33,6 +35,8 @@
     padding-top: 10px;
     margin-bottom: 20px;
     padding: bottom 30px;
+  
+ 
   }
   input {
     margin-bottom: 10px;
@@ -50,6 +54,7 @@
   }
   .unsubscribe {
     font-weight: bolder;
+   
     
   }
   button {
